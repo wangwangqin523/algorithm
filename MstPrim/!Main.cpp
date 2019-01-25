@@ -3,7 +3,7 @@
 #include <cstdlib>
 #include <ctime>
 #include "!ReadGraph.h"
-#include  "!LazyPrimeMST.h"
+#include  "!LazyPrimMST.h"
 int main(){		
 	string filename="!textG1.txt";
 	 int V=8;

@@ -2,7 +2,7 @@
 #include <cstdlib>
 #include "Graph.h"
 #include <ctime>
-#include <ReadGraph.h>
+#include "ReadGraph.h"
 int main(){
 /*	int N=20;
 	int M=100;
