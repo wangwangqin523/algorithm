@@ -1,4 +1,3 @@
-# algorithm
 Markdown 语法速查表  
 1 标题与文字格式  
 标题  
