@@ -1,10 +1,10 @@
- const int n=1000000;
-#include  "UnionFindHelper.h"
+const int n = 1000000;
+#include "UnionFindHelper.h"
 
-int main(){
+int main()
+{
 
-//testUF <unionFind1>();		
-testUF <unionFind2>();			
-testUF <unionFind2r>();
-
-		}
+	//testUF <unionFind1>();
+	testUF<unionFind2>();
+	testUF<unionFind2r>();
+}

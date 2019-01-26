@@ -3,8 +3,9 @@
 #include "Graph.h"
 #include <ctime>
 #include "ReadGraph.h"
-int main(){
-/*	int N=20;
+int main()
+{
+	/*	int N=20;
 	int M=100;
 	srand(time(NULL));
 	
@@ -31,15 +32,16 @@ for (int v=0;v<N;v++){
 	cout<<w<<"  ";
 	cout<<endl;
 	}*/
-	
-	string filename="textG1.txt";
-	 SparseGraph g1(13,false);
-	 
-	 ReadGraph<SparseGraph> readGraph1(g1, filename);
-//	 show<SparseGraph>(g1);
- Component<SparseGraph> component1(g1);
-cout<<endl;
-		component1.path(0,1);
-	 cout<<endl<<"   "<<component1.count();
-return 0;
-				}
+
+	string filename = "textG1.txt";
+	SparseGraph g1(13, false);
+
+	ReadGraph<SparseGraph> readGraph1(g1, filename);
+	//	 show<SparseGraph>(g1);
+	Component<SparseGraph> component1(g1);
+	cout << endl;
+	component1.path(0, 1);
+	cout << endl
+		 << "   " << component1.count();
+	return 0;
+}
