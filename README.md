@@ -23,7 +23,7 @@ Markdown 语法速查表
 图片  
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
 链接  
-[链接名称](https://wangwangqin523.git.io)  
+[主页](https://wangwangqin523.github.io)  
 引用  
 > 第一行引用文字  
 > 第二行引用文字  
