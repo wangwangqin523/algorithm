@@ -45,8 +45,8 @@ class IndexMinHeap
 	IndexMinHeap(int n)
 	{
 		data = new Item[n + 1];
-		indexes = new int[n + 1];
-		reverse = new int[n + 1];
+		indexes = new int[n + 1];//indexes[x]=i表示索引i在堆（indexes)中的位置是x
+		reverse = new int[n + 1];//reverse[i]=x表示索引i在堆（indexes)中的位置是x
 		for (int i = 0; i <= n; i++)
 			reverse[i] = 0;
 
