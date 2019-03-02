@@ -1,0 +1,15 @@
+git clone https://github.com/wangwangqin523/wangwangqin523.github.io.git
+上面这句话不需要初始化
+git clone https://github.com/wangwangqin523/algorithm.git
+
+git push origin --delete TestRemote
+删除远程分支TestRomote
+git branch -d TestLocal
+删除本地分支TestLocal
+
+git push -u origin Test:Test
+上传本地的Test到远程Test
+
+git add .
+git commit . "说明" 
+git push
