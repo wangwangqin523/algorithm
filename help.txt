@@ -11,5 +11,5 @@ git push -u origin Test:Test
 上传本地的Test到远程Test
 
 git add .
-git commit . "说明" 
+git commit . -m"说明" 
 git push
