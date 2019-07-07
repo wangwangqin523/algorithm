@@ -9,9 +9,12 @@ A python webapp tutorial.
 
 ***
 
-[路由理解图](./1.jpg)
 ====================
+
+[路由选择图](1.jpg)
+
 [整体思路图](./2.jpg)
+
 作者前端使用uikit和vue
 
 
