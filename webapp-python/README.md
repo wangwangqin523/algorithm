@@ -3,7 +3,7 @@ awesome-python3-webapp
 
 A python webapp tutorial.
 ***
-[效果图](https://github.com/wangwangqin523/algorithm/tree/master/webapp-python/图片1.jpg?raw=true)
+[效果图](https://github.com/wangwangqin523/algorithm/raw/master/webapp-python/图片1.jpg)
 ***
 ## 理解
 
@@ -11,7 +11,7 @@ A python webapp tutorial.
 
 ====================
 
-[路由选择图](https://github.com/wangwangqin523/algorithm/raw/master/pictrue/1.jpg)
+[路由选择图](https://github.com/wangwangqin523/algorithm/tree/master/webapp-python/1.jpg?raw=true)
 
 [整体思路图](https://github.com/wangwangqin523/algorithm/tree/master/webapp-python/2.jpg?raw=true)
 
