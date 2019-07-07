@@ -1,9 +1,9 @@
-awesome-python3-webapp
+python3-webapp
 ======================
 
-A python webapp tutorial.
+This is a python webapp for learning.
 ***
-[效果图](https://github.com/wangwangqin523/algorithm/raw/master/图片1.jpg)
+[效果图](https://github.com/wangwangqin523/algorithm/raw/master/webapp-python/图片1.jpg)
 ***
 ## 理解
 
