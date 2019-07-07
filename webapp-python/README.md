@@ -11,7 +11,7 @@ A python webapp tutorial.
 
 ====================
 
-[路由选择图](https://github.com/wangwangqin523/algorithm/tree/master/webapp-python.jpg)
+[路由选择图](https://github.com/wangwangqin523/algorithm/tree/master/webapp-python/1.jpg)
 
 [整体思路图](https://github.com/wangwangqin523/algorithm/tree/master/webapp-python/2.jpg)
 
