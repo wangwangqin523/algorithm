@@ -16,3 +16,12 @@ git push -u origin Test:Test
 git add .
 git commit . -m "说明" 
 git push
+__________________________________
+Mysql
+ 用户名：root
+ 密码：password
+ 数据库名:awesome
+百度云
+ 系统:ubuntu
+ 用户名:root
+ 密码:qin271828!
